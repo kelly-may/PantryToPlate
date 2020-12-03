@@ -1,0 +1,49 @@
+----- Viewing Items and Recipes -----
+Q. - How do you view your inventory?
+	A. In the menu, click "Pantry". 
+
+Q. - How do you view just recipes with items in your inventory?
+	A. In the menu, click "Available Recipes". This shows recipes with only ingredients
+	found in your inventory. 
+
+Q. - How do I see all my recipes, regardless of inventory?
+	A. In the menu, click "Cook Book". 
+
+----- Editing Inventory -----
+Q. - How do I add Items into the Pantry/Inventory?
+	A. There are two ways. On the home page, you can use the shortcut button "Add New Item". Otherwise, 
+	In the menu, go to "Edit Pantry", then click "Add New Item". For both methods, you can then enter
+	information about the inventory item, and click "Enter". 
+
+Q. - How do I delete an item in the Pantry?
+	A. Go to "Edit Pantry" and click "Delete Item". Enter the name of the item's name, exactly how it appears 
+	in the Pantry page, and click "Delete". 
+
+Q. - How do I modify an item in the pantry?
+	A. You can change the amount, the spelling, or any difference for an item in the inventory by going to 
+	"Edit Pantry" and then clicking "Modify Item". Select the inventory item from the scrolling menu, and then
+	update any field. 
+
+----- Editing Recipes ----- 
+Q. - How do I add a new recipe?
+	A. There are two ways. On the home page, you can use the shortcut button "Add New Recipe" or you can 
+	navigate in the menu to "Edit Pantry" and then click "Add New Recipe". Either method will pop-up an 
+	edit page. Add relevent information about the recipe, such as it's name, a description, and a link 
+	to a website with instructions. Use the scrollbar to select the number of ingredients (up to 20) and
+	then click "Enter Ingredient Number". Entry fields will appear for each ingredient, enter the 
+	ingredient name, quantity, and the quantity units for each ingredient. 
+
+Q. - How do I delete a recipe?
+	A. Go to Edit Pantry, then click "Delete Recipe". Enter the name of the recipe as it appears in the 
+	Cook Book. This will delete the recipe information, as well as any ingredient information for that recipe. 
+
+Q. - How do I modify an existing recipe?
+	A. Go to Edit Pantry, then click "Modify Recipe". Select a recipe from the drop down menu. This will 
+	enter the recipe information, as well as the ingredients for that recipe. Edit any or all fields 
+	related to the recipe and then click "Update Recipe". 
+
+----- Support -----
+Q. - How can I contact someone if I need additional help?
+	A. Email kelly.may@mymail.champlain.edu and I will get back to you with an answer to your question.
+
+ Thank you for using Pantry to Plate! 

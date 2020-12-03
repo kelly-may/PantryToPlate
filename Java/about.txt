@@ -1,0 +1,9 @@
+             >>>>>>>>>>Welcome to Pantry To Plate!<<<<<<<<<<
+Pantry to Plate is a program that is here to help you make delicious recipes with what
+is already available in your kitchen. Build an inventory of the food in your kitchen, 
+and add your favorite recipes to the Cook Book. Pantry to Plate will show you recipes
+that use only food found in your inventory. 
+
+By using Pantry To Plate, you can save time, money and food by not having to travel to 
+the grocery store as often, and by using up the food that is already in your kitchen.
+This not only is good for your wallet, but is good for the Earth too.
